@@ -1,0 +1,26 @@
+.balance{
+    padding: 21px;
+}
+.blue{
+    color: rgb(85, 164, 190);
+}
+.income{
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 10px;
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.green{
+    color: rgb(67, 163, 67);
+}
+.red{
+    color: rgb(238, 74, 74);
+}
+.v1{
+    border-left: 1px solid lightgray;
+  height: 75px;
+}
